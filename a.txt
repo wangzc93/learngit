@@ -5,4 +5,8 @@ aaaaaa
 bbb
 this line is good
 dev
+<<<<<<< HEAD
 master
+=======
+b1 branch
+>>>>>>> b1
